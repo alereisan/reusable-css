@@ -1,0 +1,24 @@
+.flex-center {
+  display: flex;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.fill-remaining-space {
+  flex: 1 1 auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.block {
+  display: block;
+  width: 100%;
+}
+
+.inline-flex {
+  display: inline-flex;
+}
